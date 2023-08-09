@@ -14,12 +14,7 @@
       "openFiles": [
         "src/App.js"
       ]
-    },
-    "vscode": {
-      "extensions": [
-          "GitHub.copilot"
-      ]
-  }
+    }
   },
   "portsAttributes": {
     "3000": {
@@ -28,4 +23,13 @@
     }
   },
   "forwardPorts": [3000],
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
 }
