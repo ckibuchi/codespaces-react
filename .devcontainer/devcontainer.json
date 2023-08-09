@@ -14,7 +14,12 @@
       "openFiles": [
         "src/App.js"
       ]
-    }
+    },
+    "vscode": {
+      "extensions": [
+          "GitHub.copilot"
+      ]
+  }
   },
   "portsAttributes": {
     "3000": {
@@ -22,5 +27,5 @@
       "onAutoForward": "openPreview"
     }
   },
-  "forwardPorts": [3000]
+  "forwardPorts": [3000],
 }
